@@ -1,0 +1,52 @@
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.bgimg {
+  background: url(wallpaper.png); /*Fondo*/
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  color: black;
+  font-family: "Candara"; /*Fuente Candara*/
+  font-size: 220%;
+}
+
+
+#logo_colegio{
+  margin-top: 20%;
+}
+#demo{ /*Cuenta regresiva*/
+  color: #00C8E4;
+}
+
+.topleft {
+  position: absolute;
+  top: 0;
+  left: 16px;
+}
+
+.bottomleft {
+  position: absolute;
+  bottom: 0;
+  left: 16px;
+  color: white;
+  font-size: 2vw;
+}
+
+.middle {
+  position: absolute;
+  top: 50vh;
+  left: 50vw;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: black;
+}
+
+
+hr {
+  margin: auto;
+  width: 40%;
+}

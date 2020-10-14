@@ -1,0 +1,12 @@
+﻿ftp:
+files.000webhost.com
+proyecto: lionsite
+contraseña: contrasenalionxiii
+
+https://lionsite.000webhostapp.com/
+
+Acceso base de datos
+
+nombre bd:id13937219_bd_lionsite
+usuario:id13937219_user_lionsite
+contraseña:JE)I@tFSW4LjIo]_	

@@ -1,0 +1,65 @@
+<style type="text/css">
+		a{
+			pointer-events: none;
+			color: #fff;
+		}
+	
+		#div{
+			margin-top: 15px;
+		}
+
+		body{
+			background: url(../assets/colegio.jpg)no-repeat center center fixed;
+			background-size: cover;
+		}
+
+		h2{
+			color: #fff;
+			-webkit-text-stroke: 0.5px #000;
+		}
+
+		#user{
+			margin-top: 20px;
+			margin-bottom: 10px
+		}
+
+		#main{
+			margin:0 auto;
+			margin-top: 25%;
+			padding: 0;
+		}
+
+		.modal-content{
+			background-color: #FCFF15;
+			padding: 0 20px;
+		}
+
+		.form-group input{
+			height: 40px;
+			font-size: 18px;
+			border: 1;
+			padding-left: 35px;
+
+		}
+
+		.form-group::before{
+			font-family: "Font awesome\ 5 free";
+			position: absolute;
+			left: 24px;
+			font-size: 18px;
+			padding-top: 6px;
+		}
+
+		.form-group#user::before{
+			content: "\f007";
+		}
+
+		.form-group#pass::before{
+			content: "\f023";
+		}
+		
+		#submit{
+		    margin-bottom: 20px;
+		}
+
+	</style>
